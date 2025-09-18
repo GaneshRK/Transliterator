@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Transliterator_v3",
+    "slug": "Transliterator_v3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+      "extra": {
+      "GOOGLE_VISION_API_KEY": "AIzaSyD8850Z7oLHpof5zzSf7zBJGlu2F1DFAWA"
+    },"splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "platforms": ["android", "ios"] 
+  }
+}
